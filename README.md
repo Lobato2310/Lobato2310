@@ -1,4 +1,4 @@
-![Profile views] (https://gpvc.arturio.dev/Lobato2310)
+![Profile views](https://gpvc.arturio.dev/Lobato2310)
 
 # 👋 Welcome, I'm Lucas Lobato
 
