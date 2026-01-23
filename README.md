@@ -1,5 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/Lobato2310)
-
 # 👋 Welcome, I'm Lucas Lobato
 
 🎯 **Analista de Dados em formação**, focado em transformar dados em **insights acionáveis** que apoiam decisões estratégicas de negócio.
