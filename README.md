@@ -1,7 +1,7 @@
 # Olá, eu sou Lucas Lobato 👋
 
 > Estudante de Ciência da Computação em transição para **Data Science / Data Analytics**  
-> Estagiário de Tecnologia e Inovação no setor público municipal — automação, dados e desenvolvimento de sistemas
+> Estagiário de Tecnologia e Inovação na prefeitura municipal de Guararema-SP — automação, banco de dados, e desenvolvimento de sistemas
 
 ---
 
@@ -31,6 +31,7 @@ Interesse de longo prazo em **Engenharia de Dados** e sistemas inteligentes apli
 
 ### 🗄️ Banco de Dados & BI
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
@@ -41,6 +42,19 @@ Interesse de longo prazo em **Engenharia de Dados** e sistemas inteligentes apli
 
 ## 🚀 Projetos em Destaque
 
+### 📊 Análise de Inadimplência no Brasil
+> Pipeline completo de dados — do scraping ao dashboard — usando dados públicos do Banco Central
+
+- Web scraping automatizado com **Selenium** para coleta de 22 arquivos CSV (jan/2024 – out/2025)
+- ETL e modelagem com **SQL no BigQuery** — 6,6 milhões de registros reduzidos a 1.134 após transformação
+- 3 dashboards interativos no **Power BI**: visão geral, análise regional e comparativo PF vs PJ
+- Insights reais: PF com taxa **2,4x maior** que PJ; 48% dos valores vencidos acima de 90 dias
+- Stack: `Python` · `Selenium` · `SQL` · `BigQuery` · `Power BI`
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lobato2310/analise-inadimplencia-bc)
+
+---
+
 ### 🏥 Previsão de Reinternação Hospitalar
 > Modelo de Machine Learning end-to-end para prever reinternações hospitalares
 
@@ -49,8 +63,8 @@ Interesse de longo prazo em **Engenharia de Dados** e sistemas inteligentes apli
 - Deploy com **Streamlit Cloud** — acessível publicamente
 - Stack: `Scikit-learn` · `Pandas` · `Plotly Express` · `Streamlit`
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/Lobato2310)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lobato2310)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/lucaslobato2310/hospital-readmission-streamlit)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lobato2310/datascience_playground/tree/main/hospital_readmission_prediction)
 
 ---
 
@@ -61,7 +75,6 @@ Interesse de longo prazo em **Engenharia de Dados** e sistemas inteligentes apli
 - Kanban interativo, filtros avançados, paginação e busca em tempo real via HTMX
 - **Dashboard gerencial** com gráficos interativos via Plotly
 - Histórico de auditoria completo com `django-simple-history`
-- Alertas automáticos de prazo vencido e urgente
 - Stack: `Django` · `Plotly` · `HTMX` · `SQLite` · `CSS3`
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lobato2310/task-list)
@@ -82,14 +95,14 @@ Interesse de longo prazo em **Engenharia de Dados** e sistemas inteligentes apli
 ## 📚 Formação & Certificações
 
 - 🎓 **Ciência da Computação** — Anhembi Morumbi *(em andamento)*
-- 🏅 **IBM Data Science Professional Certificate** — Coursera
+- 🏅 **GenAI & Dados** — Bradesco + DIO
 
 ---
 
 ## 💼 Experiência
 
-**Estagiário de Tecnologia e Inovação** — Prefeitura Municipal  
-Desenvolvimento de sistemas internos, automações e análise de dados aplicados à gestão pública.
+**Estagiário de Tecnologia e Inovação** — Prefeitura Municipal de Guararema-SP
+Desenvolvimento de sistemas internos, automações e banco de dados relacionados à gestão pública.
 
 ---
 
@@ -107,9 +120,10 @@ Desenvolvimento de sistemas internos, automações e análise de dados aplicados
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--lobato--tech-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lobato-tech)
 [![GitHub](https://img.shields.io/badge/GitHub-Lobato2310-181717?style=for-the-badge&logo=github)](https://github.com/Lobato2310)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Lobato2310-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/Lobato2310)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Lobato2310-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/lucaslobato2310)
+[![Email](https://img.shields.io/badge/Email-lucaslobsouza@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaslobsouza@gmail.com)
 
 ---
 
