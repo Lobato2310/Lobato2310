@@ -93,7 +93,7 @@ Interesse de longo prazo em **Engenharia de Dados** e sistemas inteligentes apli
 
 ## 📚 Formação & Certificações
 
-- 🎓 **Ciência da Computação** — Anhembi Morumbi *(em andamento)*
+- 🎓 **Ciência da Computação** — Anhembi Morumbi *(último semestre)*
 - 🏅 **GenAI & Dados** — Bradesco + DIO
 
 ---
