@@ -121,7 +121,7 @@ Desenvolvimento de sistemas internos, automações e banco de dados relacionados
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--lobato--tech-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lobato-tech)
 [![GitHub](https://img.shields.io/badge/GitHub-Lobato2310-181717?style=for-the-badge&logo=github)](https://github.com/Lobato2310)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Lobato2310-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/lucaslobato2310)
+[![Kaggle](https://img.shields.io/badge/Kaggle-lucaslobato2310-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/lucaslobato2310)
 [![Email](https://img.shields.io/badge/Email-lucaslobsouza@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaslobsouza@gmail.com)
 
 ---
