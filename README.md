@@ -80,7 +80,7 @@ Interesse de longo prazo em **Engenharia de Dados** e sistemas inteligentes apli
 
 ---
 
-### 🏠 Web Scraping Imobiliário — Freelance (1Contact Internacional)
+### 🏠 Web Scraping Imobiliário — Freelance (1Contact Sàrl)
 > Automação de coleta de dados imobiliários com bypass de CAPTCHA e integração com IA
 
 - Manutenção e desenvolvimento de automações com **Scrapy**
