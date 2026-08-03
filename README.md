@@ -238,8 +238,7 @@ Universidade Anhembi Morumbi
 
 <div align="center">
 
-![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lobato2310&show_icons=true&theme=tokyonight&hide_border=true)
-
+![Minhas Estatísticas](https://vercel.app)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lobato2310&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
