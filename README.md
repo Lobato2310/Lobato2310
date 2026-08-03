@@ -238,9 +238,7 @@ Universidade Anhembi Morumbi
 
 <div align="center">
 
-![Minhas Estatísticas](https://vercel.app)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lobato2310&layout=compact&theme=tokyonight&hide_border=true)
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?Lobato2310=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 </div>
 
 ---
