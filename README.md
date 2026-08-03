@@ -238,7 +238,8 @@ Universidade Anhembi Morumbi
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?Lobato2310=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+(https://github-stats-extended.vercel.app/api?lobato2310=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+
 </div>
 
 ---
