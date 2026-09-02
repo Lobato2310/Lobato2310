@@ -1,262 +1,108 @@
 # Olá, eu sou Lucas Lobato 👋
 
-> 🎓 Bacharel em Ciência da Computação • Analista de Dados Jr • Cientista de Dados Jr  
-> Apaixonado por transformar dados em decisões através de Data Analytics, Machine Learning e Inteligência Artificial.
+**Python | Dados | SQL | Análises e Gestão**
 
 ---
 
-# 🎯 Objetivo Profissional
+### 🎯 Objetivo Profissional
 
-Atuar como **Analista de Dados Jr** ou **Cientista de Dados Jr**, desenvolvendo soluções de análise de dados, Machine Learning e automação para apoiar decisões de negócio.
-
-Tenho interesse em todo o ciclo de dados, desde coleta, engenharia e modelagem até deploy de modelos, com objetivo de evoluir futuramente para Engenharia de Dados e Inteligência Artificial.
+Atuar nas áreas de Dados. Meu foco é utilizar a combinação de **+5 anos na Gestão de Negócios e Operações Comerciais** com a **Ciência da Computação** para construir pipelines de dados defensivos, arquiteturas analíticas e soluções orientadas a IA que reduzam custos e tragam clareza decisória para os stakeholders.
 
 ---
 
-# 🛠️ Stack Técnica
+### 👤 Sobre Mim & Trajetória
 
-## 📊 Data Science & Machine Learning
+- 🎓 **Formação:** Bacharel em Ciência da Computação (último semestre).
+- 💼 **Diferencial Comercial:** Atuação sólida em gestão de negócios e operações comerciais. Entendo o impacto financeiro de cada indicador e traduzo regras de negócio complexas em requisitos técnicos.
+- 🛠️ **Foco Técnico:** Limpeza defensiva de dados ruidosos, pipeline ETL/ELT, modelagem preditiva, automação com Web Scraping e dashboards executivos.
 
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+#### Linguagens & Manipulação de Dados
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD7F32?style=for-the-badge&logo=polars&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
-![Random Forest](https://img.shields.io/badge/RandomForest-228B22?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
----
-
-## 🗄️ Banco de Dados & Analytics
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
-
-## 🌐 Desenvolvimento & Automação
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+#### Engenharia, Bancos de Dados & ORM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71108?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
-## 🤖 IA Generativa
+#### Machine Learning, IA & Automação
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-00599C?style=for-the-badge&logo=python&logoColor=white)
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+#### Visualização de Dados & BI
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
-
-# 🚀 Projetos em Destaque
-
-## 📊 Análise de Inadimplência no Brasil
-
-**Pipeline completo de Data Analytics utilizando dados públicos do Banco Central**
-
-### Principais entregas
-
-- Web Scraping automatizado de 22 arquivos CSV
-- ETL completo em Python
-- Modelagem SQL no BigQuery
-- Mais de **6,6 milhões** de registros processados
-- Dashboards executivos no Power BI
-- Insights sobre inadimplência por região, modalidade e pessoa física/jurídica
-
-**Stack**
-
-`Python` • `Selenium` • `SQL` • `BigQuery` • `Power BI`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github)](https://github.com/Lobato2310/analise-inadimplencia-bc)
+#### Ambiente & Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🏥 Previsão de Reinternação Hospitalar
+### 📌 Projetos em Destaque
 
-Projeto completo de Ciência de Dados para previsão de reinternações hospitalares.
+#### 🛡️ [Data Quality Pipeline & Analytics para Fintech](https://github.com/Lobato2310/fintech_datascience)
+* **Problema de Negócio:** Bases financeiras com **205.842 inconsistências** em 500.000 transações (datas em múltiplos formatos, ruídos de moeda e transações órfãs) gerando relatórios distorcidos.
+* **Abordagem Técnica:** Implementação de um pipeline de **engenharia defensiva** em Python. Tratamento não-destrutivo aplicando *flags de inconsistência*, carga tipada no **PostgreSQL via SQLAlchemy 2.0** e execução de queries analíticas portáveis em **DuckDB**.
+* **Resultado:** Preservação de 100% da volumetria dos dados, correção de bugs graves em renda de clientes e construção de dashboards executivos em Plotly imunes a dados inconsistentes.
 
-### Pipeline
+#### 🏥 [Predição de Readmissão Hospitalar](https://github.com/Lobato2310/datascience_playground)
+* **Problema de Negócio:** Readmissões hospitalares não planejadas dentro de 30 dias aumentam os custos de saúde e sobrecarregam leitos de UTI.
+* **Abordagem Técnica:** Pipeline de Machine Learning em **Scikit-Learn** treinado com dados clínicos. Otimização de hiperparâmetros via `RandomizedSearchCV` focando no equilíbrio entre Precisão e Recall (**F1-Score**) para minimizar falsos negativos.
+* **Resultado:** Aplicação implantada e rodando no **Streamlit Cloud**, permitindo a triagem em tempo real de pacientes com alto risco de retorno para planejamento de alta médica.
 
-- Análise Exploratória (EDA)
-- Feature Engineering
-- Pré-processamento
-- ColumnTransformer
-- RandomizedSearchCV
-- Deploy em Streamlit
+#### 📊 [Análise de Inadimplência no Brasil](https://github.com/Lobato2310/analise-inadimplencia-brasil)
+* **Problema de Negócio:** Necessidade de mapear a deterioração do crédito e identificar gargalos regionais de inadimplência (PF vs PJ).
+* **Abordagem Técnica:** Web scraping automatizado via **Selenium** consumindo o sistema de dados abertos do Banco Central. Consolidação e modelagem em **SQL no BigQuery** utilizando *Window Functions* e CTEs, e visualização em **Power BI**.
+* **Resultado:** Identificação de que a taxa de inadimplência de Pessoas Físicas é **2.4x maior** que Pessoas Jurídicas, além do mapeamento de região mais inadimplente.
 
-### Modelos
-
-- Random Forest
-- XGBoost *(em desenvolvimento)*
-- LightGBM *(em desenvolvimento)*
-
-**Stack**
-
-`Scikit-Learn`
-`Pandas`
-`Plotly`
-`Streamlit`
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-Projeto-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/lucaslobato2310/hospital-readmission-streamlit)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github)](https://github.com/Lobato2310/datascience_playground/tree/main/hospital_readmission_prediction)
-
-[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://hospital-readmission-prediction-app.streamlit.app/)
+#### 🗂️ [TaskFlow Pro — Gestão Corporativa](https://github.com/Lobato2310/task-list)
+* **Problema de Negócio:** Falta de rastreabilidade e centralização no acompanhamento do fluxo operacional de equipes corporativas.
+* **Abordagem Técnica:** Desenvolvimento em **Django** integrado ao **HTMX** para reatividade contínua sem recarregar a página. Sistema de permissões por perfil (Colaborador, Gestor, Admin), auditoria de histórico com `django-simple-history` e dashboard analítico em **Plotly**.
+* **Resultado:** Aplicação reativa completa com isolamento de dados por usuário, histórico imutável para auditorias e visões temporais do progresso da equipe.
 
 ---
 
-## 🗂️ TaskFlow Pro
+### 📚 Aprendizado Contínuo & Próximos Passos
 
-Sistema corporativo de gerenciamento de tarefas desenvolvido em Django.
-
-### Funcionalidades
-
-- Controle de acesso por perfil
-- Kanban
-- Dashboard Gerencial
-- Auditoria
-- Busca em tempo real
-- Paginação
-- HTMX
-- Plotly
-
-**Stack**
-
-`Django`
-`SQLite`
-`HTMX`
-`Plotly`
-`CSS`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?style=for-the-badge&logo=github)](https://github.com/Lobato2310/task-list)
+- 📝 **Atualmente Estudando e Praticando:**
+  - Validação avançada e testes automatizados de dados com Python.
+  - Engenharia de Prompts e chamadas de API REST para integração de Agentes de IA e LLMs em sistemas analíticos.
+- 🎓 **Próxima Especialização / Certificação:**
+  - [Certificado Profissional IBM Generative AI Engineering](https://www.coursera.org/professional-certificates/ibm-generative-ai-engineering) *(Coursera)* — Foco no desenvolvimento de aplicações avançadas de IA Generativa, frameworks de agentes e integração de modelos.
 
 ---
 
-## 🏠 Web Scraping Imobiliário
+### 📊 Estatísticas do GitHub
 
-**Freelance para empresa suíça**
-
-Automação para coleta de dados imobiliários utilizando Scrapy e Selenium.
-
-### Atividades
-
-- Desenvolvimento de Crawlers
-- Bypass de CAPTCHA
-- Integração com OpenAI
-- Interface Streamlit
-- Extração inteligente de informações imobiliárias
-
-**Stack**
-
-`Scrapy`
-`Selenium`
-`BeautifulSoup`
-`OpenAI API`
-`Streamlit`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lobato2310&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Lucas Lobato's GitHub Stats" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lobato2310&layout=compact&theme=dark" alt="Top Languages" height="175"/>
+</p>
 
 ---
 
-# 💼 Experiência
+### 📬 Conecte-se comigo
 
-## Estagiário de Tecnologia e Inovação
-
-**Prefeitura Municipal de Guararema - SP**
-
-Atuação no desenvolvimento de sistemas internos, automações, banco de dados e suporte a soluções tecnológicas voltadas à gestão pública.
-
-### Tecnologias utilizadas
-
-- Python
-- Django
-- PostgreSQL
-- HTML
-- CSS
-- JavaScript
-- SQL
-
----
-
-# 📚 Formação
-
-🎓 **Bacharel em Ciência da Computação**
-
-Universidade Anhembi Morumbi
-
----
-
-# 📜 Cursos & Certificações
-
-- GenAI & Dados — Bradesco + DIO
----
-
-# 📖 Atualmente estudando e praticando
-
-- DuckDB para SQL em notebooks (projeto em andamento)
-- XGBoost (projeto em andamento)
-- LightGBM (projeto em andamento)
-- Engenharia de Features (projeto em andamento)
-- Machine Learning Interpretability (projeto em andamento)
-- Model Selection (projeto em andamento)
-- Feature Engineering (projeto em andamento)
-
----
-
-# 🚀 Próximos Estudos
-
-### 🤖 LLM Zoomcamp (DataTalksClub)
-
-- AI Agents
-- RAG
-- MCP
-- LLMOps
-- Fine Tuning
-- Avaliação de LLMs
-
-### 📊 Machine Learning Zoomcamp (DataTalksClub)
-
-- Linear Regression
-- Classification
-- Model Evaluation
-- Decision Trees
-- Random Forest
-- Gradient Boosting
-- Neural Networks
-- ONNX
-- Kubernetes
-- Serverless Deployment
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Lobato2310&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=nord)](https://github-stats-extended.vercel.app/api?username=Lobato2310&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=nord)
-</div>
-
----
-
-# 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--lobato--tech-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lobato-tech)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Lobato2310-181717?style=for-the-badge&logo=github)](https://github.com/Lobato2310)
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-lucaslobato2310-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/lucaslobato2310)
-
-[![Email](https://img.shields.io/badge/Email-lucaslobsouza@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaslobsouza@gmail.com)
-
----
-
-<div align="center">
-
-### Transformando dados em decisões através de Analytics, Machine Learning e Inteligência Artificial.
-
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucas-lobato-tech" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lucaslobsouza@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
