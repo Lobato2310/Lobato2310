@@ -6,7 +6,7 @@
 
 ### 🎯 Objetivo Profissional
 
-Atuar nas áreas de Dados. Meu foco é utilizar a combinação de **+5 anos na Gestão de Negócios e Operações Comerciais** com a **Ciência da Computação** para construir pipelines de dados defensivos, arquiteturas analíticas e soluções orientadas a IA que reduzam custos e tragam clareza decisória para os stakeholders.
+Atuar nas áreas de Dados. Meu foco é utilizar a combinação de **+5 anos na Gestão de Negócios e Operações Comerciais** com a **Tecnologia** para construir pipelines de dados defensivos, arquiteturas analíticas e soluções orientadas a IA que reduzam custos e tragam clareza decisória para os stakeholders.
 
 ---
 
