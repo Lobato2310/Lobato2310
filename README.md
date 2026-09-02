@@ -88,10 +88,8 @@ Atuar nas áreas de Dados. Meu foco é utilizar a combinação de **+5 anos na G
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lobato2310&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Lucas Lobato's GitHub Stats" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lobato2310&layout=compact&theme=dark" alt="Top Languages" height="175"/>
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Lobato2310&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=nord)](https://github-stats-extended.vercel.app/api?username=Lobato2310&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=nord)
+</div>
 
 ---
 
