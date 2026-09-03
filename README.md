@@ -14,7 +14,7 @@ Atuar nas áreas de Dados. Meu foco é utilizar a combinação de **+5 anos na G
 
 - 🎓 **Formação:** Bacharel em Ciência da Computação (último semestre).
 - 💼 **Diferencial Comercial:** Atuação sólida em gestão de negócios e operações comerciais. Entendo o impacto financeiro de cada indicador e traduzo regras de negócio complexas em requisitos técnicos.
-- 🛠️ **Foco Técnico:** Limpeza defensiva de dados ruidosos, pipeline ETL/ELT, modelagem preditiva, automação com Web Scraping e dashboards executivos.
+- 🛠️ **Foco Técnico:** Limpeza defensiva de dados ruidosos, pipeline ETL/ELT, modelagem preditiva, automação com Web Scraping, dashboards executivos, atualmente focando energias em ML e LLM.
 
 ---
 
