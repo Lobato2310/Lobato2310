@@ -1,6 +1,6 @@
 # Olá, eu sou Lucas Lobato 👋
 
-**Python | Dados | SQL | Análises e Gestão**
+**Python | Dados | SQL | GenAI | Análises e Gestão**
 
 ---
 
