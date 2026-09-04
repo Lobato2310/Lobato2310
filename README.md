@@ -76,16 +76,6 @@ Atuar nas áreas de Dados. Meu foco é utilizar a combinação de **+5 anos na G
 
 ---
 
-### 📚 Aprendizado Contínuo & Próximos Passos
-
-- 📝 **Atualmente Estudando e Praticando:**
-  - Validação avançada e testes automatizados de dados com Python.
-  - Engenharia de Prompts e chamadas de API REST para integração de Agentes de IA e LLMs em sistemas analíticos.
-- 🎓 **Próxima Especialização / Certificação:**
-  - [Certificado Profissional IBM Generative AI Engineering](https://www.coursera.org/professional-certificates/ibm-generative-ai-engineering) *(Coursera)* — Foco no desenvolvimento de aplicações avançadas de IA Generativa, frameworks de agentes e integração de modelos.
-
----
-
 ### 📊 Estatísticas do GitHub
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Lobato2310&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=nord)](https://github-stats-extended.vercel.app/api?username=Lobato2310&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=nord)
